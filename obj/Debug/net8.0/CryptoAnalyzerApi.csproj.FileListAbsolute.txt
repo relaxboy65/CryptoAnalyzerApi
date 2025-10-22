@@ -36,3 +36,9 @@ D:\CryptoAnalyzerApi\CryptoAnalyzerApi\obj\Debug\net8.0\refint\CryptoAnalyzerApi
 D:\CryptoAnalyzerApi\CryptoAnalyzerApi\obj\Debug\net8.0\CryptoAnalyzerApi.pdb
 D:\CryptoAnalyzerApi\CryptoAnalyzerApi\obj\Debug\net8.0\CryptoAnalyzerApi.genruntimeconfig.cache
 D:\CryptoAnalyzerApi\CryptoAnalyzerApi\obj\Debug\net8.0\ref\CryptoAnalyzerApi.dll
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\bin\Debug\net8.0\out\out\web.config
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\bin\Debug\net8.0\out\out\appsettings.Development.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\bin\Debug\net8.0\out\out\appsettings.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\bin\Debug\net8.0\out\out\CryptoAnalyzerApi.deps.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\bin\Debug\net8.0\out\out\CryptoAnalyzerApi.runtimeconfig.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\bin\Debug\net8.0\out\out\CryptoAnalyzerApi.staticwebassets.endpoints.json
