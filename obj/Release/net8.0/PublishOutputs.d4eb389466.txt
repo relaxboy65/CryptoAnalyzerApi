@@ -1,0 +1,14 @@
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\CryptoAnalyzerApi.exe
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\out\web.config
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\appsettings.Development.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\appsettings.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\out\appsettings.Development.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\out\appsettings.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\out\CryptoAnalyzerApi.deps.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\out\CryptoAnalyzerApi.runtimeconfig.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\out\CryptoAnalyzerApi.staticwebassets.endpoints.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\CryptoAnalyzerApi.dll
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\CryptoAnalyzerApi.deps.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\CryptoAnalyzerApi.runtimeconfig.json
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\CryptoAnalyzerApi.pdb
+D:\CryptoAnalyzerApi\CryptoAnalyzerApi\out\Newtonsoft.Json.dll

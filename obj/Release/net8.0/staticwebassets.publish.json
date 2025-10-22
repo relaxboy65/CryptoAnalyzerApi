@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "70DP1F7MJxJ4E7XmANb298zDGLYNOrn1jH+B3BKmEiI=",
+  "Source": "CryptoAnalyzerApi",
+  "BasePath": "_content/CryptoAnalyzerApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

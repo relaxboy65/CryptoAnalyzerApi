@@ -19,4 +19,11 @@ public class AnalysisResult
     public decimal RRR { get; set; }
     public List<string> Warnings { get; set; } = new();
     public string Verdict { get; set; } = "";
+
+    // 🔥 اضافه شده برای نمایش جزئیات اندیکاتورها
+    public decimal RSI { get; set; }
+    public decimal EMA14 { get; set; }
+    public decimal EMA50 { get; set; }
+    public decimal MACD { get; set; }
+    public decimal MACDSignal { get; set; }
 }
